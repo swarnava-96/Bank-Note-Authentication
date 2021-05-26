@@ -2,7 +2,7 @@
 
 #### 📌 Introduction
 
-This Machine Learning Web Application uses a several features of Banknotes like variance, skewness, curtosis and entropy to predict the Authenticy of Banknotes weither it is Genuine or Forged with an accuracy of 99.81% using KNeighborsClassifier.This Dataset is taken from UCI Repository and also available in Kaggle,Data were extracted from images that were taken from genuine and forged banknote-like specimens. For digitization, an industrial camera usually used for print inspection was used. The final images have 400x 400 pixels. Due to the object lens and distance to the investigated object gray-scale pictures with a resolution of about 660 dpi were gained. Wavelet Transform tool were used to extract features from images,***In this ml model we are considering 0 for geniune bank note and 1 for forged bank note.***
+This Machine Learning Web Application uses several features of Banknotes to predict the Authenticy of Banknotes weither it is Genuine or Forged with an accuracy of 99.81% using KNeighborsClassifier.This Dataset is taken from UCI Repository and also available in Kaggle,Data were extracted from images that were taken from genuine and forged banknote-like specimens. For digitization, an industrial camera usually used for print inspection was used. The final images have 400x 400 pixels. Due to the object lens and distance to the investigated object gray-scale pictures with a resolution of about 660 dpi were gained. Wavelet Transform tool were used to extract features from images,***In this ml model we are considering 0 for geniune bank note and 1 for forged bank note.***
 
 #### Attribute Information:
 1. variance of Wavelet Transformed image (continuous)
@@ -26,6 +26,11 @@ As now a days many transactions take place using plastic money , But Bank Notes 
 
 * [SkLearn](https://scikit-learn.org/)
 * [Streamlit](https://www.streamlit.io/)
+
+## Frontend Using Streamlit
+
+![image](https://user-images.githubusercontent.com/75041273/119683431-44c81300-be61-11eb-8248-0b6a790bed19.png)
+
 
 
 
