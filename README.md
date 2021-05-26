@@ -5,11 +5,12 @@
 This Machine Learning Web Application uses a several features of Banknotes like variance, skewness, curtosis and entropy to predict the Authenticy of Banknotes weither it is Genuine or Forged with an accuracy of 99.81% using KNeighborsClassifier.This Dataset is taken from UCI Repository and also available in Kaggle,Data were extracted from images that were taken from genuine and forged banknote-like specimens. For digitization, an industrial camera usually used for print inspection was used. The final images have 400x 400 pixels. Due to the object lens and distance to the investigated object gray-scale pictures with a resolution of about 660 dpi were gained. Wavelet Transform tool were used to extract features from images,***In this ml model we are considering 0 for geniune bank note and 1 for forged bank note.***
 
 #### Attribute Information:
-variance of Wavelet Transformed image (continuous)
-skewness of Wavelet Transformed image (continuous)
-curtosis of Wavelet Transformed image (continuous)
-entropy of image (continuous)
-class (integer)
+1. variance of Wavelet Transformed image (continuous)
+2. skewness of Wavelet Transformed image (continuous)
+3. curtosis of Wavelet Transformed image (continuous)
+4. entropy of image (continuous)
+5. class (integer)
+
 ## 🎯 Purpose of the Project
 
 Whether we pull out paper bills or swipe a credit card, most of the transactions we engage in daily use currency. Indeed, money is the lifeblood of economies around the world. Currency refers to paper money or coins that are in circulation. But currency is actually only a small piece of the monetary economy and just one consideration when looking at the total money supply.
