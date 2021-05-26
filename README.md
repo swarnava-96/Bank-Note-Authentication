@@ -27,6 +27,7 @@ As now a days many transactions take place using plastic money , But Bank Notes 
 
 * [SkLearn](https://scikit-learn.org/)
 * [Streamlit](https://www.streamlit.io/)
+* [Heroku](https://www.heroku.com/)
 
 
 
@@ -41,7 +42,7 @@ https://banknotesauthentication.herokuapp.com/
 ## 📋 Further Changes to be Done
 
 - [ ] Deploying the Web Application on Cloud.
-     - [ ] Heroku
+     - [ ] Google Cloud 
      - [ ] Azure
 
 
