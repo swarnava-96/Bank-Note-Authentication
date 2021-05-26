@@ -12,7 +12,7 @@ import streamlit as st
 
 from PIL import Image
 
-pickle_in = open("C:/Users/SWARNAVA/Desktop/Bank Note Authentication/knn.pkl","rb")
+pickle_in = open("knn.pkl","rb")
 knn=pickle.load(pickle_in)
 
 def welcome():
