@@ -32,7 +32,6 @@ As now a days many transactions take place using plastic money , But Bank Notes 
 ![image](https://user-images.githubusercontent.com/75041273/119683431-44c81300-be61-11eb-8248-0b6a790bed19.png)
 
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
      
 
 
