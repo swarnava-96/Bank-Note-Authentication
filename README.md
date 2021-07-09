@@ -20,15 +20,31 @@ Indeed, most money today exists as credit money or as electronic records stored 
 ### Why Bank Notes Genuinity is Important 💵?
 As now a days many transactions take place using plastic money , But Bank Notes and Coins are still is in the use and used by more than 56% of Indians as surveyed in 2019 and the major transactions from buying daily households to spending money in various places to buy things in small commodities shop to Barber Shops and Groceries are taken place in notes and if the notes used by people of the country are forged or duplicate this will leads to unstable economy and rise of crimes in country with illegal transactions, so we need to autheticate notes so that it can leads to stable economy and leads towards a well development of country.
 
+## Installation
+The Code is written in Python 3.7.3 If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+```bash
+pip install -r requirements.txt
+```
 
+## Deployement on Heroku
+Login or signup in order to create virtual app. You can either connect your github profile or download Hroku CLI to manually deploy this project.
 
-## 🏁 Technology Stack
+[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
 
+Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
-* [SkLearn](https://scikit-learn.org/)
-* [Streamlit](https://www.streamlit.io/)
-* [Heroku](https://www.heroku.com/)
+## Directory Tree 
+```
 
+├── templates
+│   ├── index.html
+├── Procfile
+├── README.md
+├── app.py
+├── Car Price Prediction model.ipynb
+├── random_forest_regression_model.pkl
+├── requirements.txt
+```
 
 
 ## Frontend Using Streamlit
@@ -37,6 +53,14 @@ https://banknotesauthentication.herokuapp.com/
 ![image](https://user-images.githubusercontent.com/75041273/119726176-74414480-be8e-11eb-9643-784b82e6742c.png)
 
 
+## 🏁 Technology Stack
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+* [SkLearn](https://scikit-learn.org/)
+* [Streamlit](https://www.streamlit.io/)
+* [Heroku](https://www.heroku.com/)
+
 
 
 ## 📋 Further Changes to be Done
@@ -44,10 +68,8 @@ https://banknotesauthentication.herokuapp.com/
 - [ ] Deploying the Web Application on Cloud.
      - [ ] Google Cloud 
      - [ ] Azure
+     - [ ] AWS EC2 Instance
 
 
 
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-     
 
