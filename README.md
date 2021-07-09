@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 
 ## Deployement on Heroku
-Login or signup in order to create virtual app. You can either connect your github profile or download Hroku CLI to manually deploy this project.
+Login or signup in order to create virtual app. You can either connect your github profile or download Heroku CLI to manually deploy this project.
 
 [![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
 
