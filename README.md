@@ -35,15 +35,14 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Directory Tree 
 ```
-
-├── templates
-│   ├── index.html
+├── setup.sh
 ├── Procfile
 ├── README.md
 ├── app.py
-├── Car Price Prediction model.ipynb
-├── random_forest_regression_model.pkl
+├── Model.ipynb
+├── knn.pkl
 ├── requirements.txt
+
 ```
 
 
